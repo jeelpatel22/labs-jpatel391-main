@@ -5,7 +5,7 @@
 # To test, run the following command :
 #     python test_lab1.py
 #
-# Author: Jeelkumar Patel
+# Author: Jeelkumar Vinodkumar Patel
 # Student Number:115766222
 #
 
