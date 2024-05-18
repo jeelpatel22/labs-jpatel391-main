@@ -5,7 +5,7 @@
 # To test, run the following command :
 #     python test_lab1.py
 #
-# Author: Jeelkumar Vinodkumar Patel
+# Author: Jeelkumar Patel
 # Student Number:115766222
 #
 
@@ -62,3 +62,4 @@ class UpCounter:
 class DownCounter(UpCounter):
     def update(self):
         self.count_value -= self.step_size
+        
