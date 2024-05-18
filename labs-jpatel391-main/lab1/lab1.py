@@ -1,4 +1,4 @@
-# Write the code for your lab 1 here.  Read the specs carefully.  
+# Write the= code for your lab 1 here.  Read the specs carefully.  
 # Function name must be exactly as provided.  
 # Names of variables and parameters can be whatever you wish it to be
 #
